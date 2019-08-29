@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Libraly>
+	<Book>
+		<ID>1</ID>
+		<AuthorFN>Лев</AuthorFN>
+		<AuthorLN>Толстой</AuthorLN>
+		<Title>Анна Каренина</Title>
+		<Date>2001</Date>
+		<Status>В наличии</Status>
+		<On_hands/>
+	</Book>
+
+	<Book>
+		<ID>3</ID>
+		<AuthorFN>Фёдор</AuthorFN>
+		<AuthorLN>Достоевский</AuthorLN>
+		<Title>Идиот</Title>
+		<Date>2015</Date>
+		<Status>В наличии</Status>
+		<On_hands/>
+	</Book>
+	<Book>
+		<ID>4</ID>
+		<AuthorFN>Лев</AuthorFN>
+		<AuthorLN>Толстой</AuthorLN>
+		<Title>Война и мир</Title>
+		<Date>2018</Date>
+		<Status>В наличии</Status>
+		<On_hands/>
+	</Book>
+	<Book>
+		<ID>5</ID>
+		<AuthorFN>Дэниел</AuthorFN>
+		<AuthorLN>Киз</AuthorLN>
+		<Title>Цветы для Элджернона</Title>
+		<Date>2015</Date>
+		<Status>В наличии</Status>
+		<On_hands/>
+	</Book>
+	<Book>
+		<ID>6</ID>
+		<AuthorFN>Эрих-Мария</AuthorFN>
+		<AuthorLN>Ремарк</AuthorLN>
+		<Title>Три товарища</Title>
+		<Date>1987</Date>
+		<Status/>
+		<On_hands>5</On_hands>
+	</Book>
+	<Book>
+		<ID>7</ID>
+		<AuthorFN>Фёдор</AuthorFN>
+		<AuthorLN>Достоевский</AuthorLN>
+		<Title>Преступление и наказание</Title>
+		<Date>2003</Date>
+		<Status>В наличии</Status>
+		<On_hands/>
+	</Book>
+	<Book>
+		<ID>8</ID>
+		<AuthorFN>Ричард</AuthorFN>
+		<AuthorLN>Бах</AuthorLN>
+		<Title>Чайка Джонатан Ливингстон</Title>
+		<Date>2007</Date>
+		<Status>В наличии</Status>
+		<On_hands/>
+	</Book>
+	<Book>
+		<ID>9</ID>
+		<AuthorFN>Стивен</AuthorFN>
+		<AuthorLN>Кинг</AuthorLN>
+		<Title>Кладбище домашних животных</Title>
+		<Date>1992</Date>
+		<Status>В наличии</Status>
+		<On_hands/>
+	</Book>
+	<Book>
+		<ID>10</ID>
+		<AuthorFN>Джоан</AuthorFN>
+		<AuthorLN>Роулинг</AuthorLN>
+		<Title>Гарри Поттер и Философский камень</Title>
+		<Date>2000</Date>
+		<Status>В наличии</Status>
+		<On_hands/>
+	</Book>
+	<Book>
+		<ID>11</ID>
+		<AuthorFN>Олдос</AuthorFN>
+		<AuthorLN>Хаксли</AuthorLN>
+		<Title>О дивный новый мир</Title>
+		<Date>2014</Date>
+		<Status>В наличии</Status>
+		<On_hands/>
+	</Book>
+	<Book>
+		<ID>12</ID>
+		<AuthorFN>Дмитрий</AuthorFN>
+		<AuthorLN>Глуховский</AuthorLN>
+		<Title>Текст</Title>
+		<Date>2017</Date>
+		<Status>В наличии</Status>
+		<On_hands/>
+	</Book>
+	<Book>
+		<ID>13</ID>
+		<AuthorFN>Стивен</AuthorFN>
+		<AuthorLN>Кинг</AuthorLN>
+		<Title>Темная башня</Title>
+		<Date>1998</Date>
+		<Status>В наличии</Status>
+		<On_hands/>
+	</Book>
+	<Book>
+		<ID>14</ID>
+		<AuthorFN>Николас</AuthorFN>
+		<AuthorLN>Спаркс</AuthorLN>
+		<Title>Девник памяти</Title>
+		<Date>2001</Date>
+		<Status>В наличии</Status>
+		<On_hands/>
+	</Book>
+	<Book>
+		<ID>15</ID>
+		<AuthorFN>Петр</AuthorFN>
+		<AuthorLN>Таланов</AuthorLN>
+		<Title>Доказательная медицина: от магии до в бессметрия</Title>
+		<Date>2019</Date>
+		<Status>В наличии</Status>
+		<On_hands/>
+	</Book>
+	<Book>
+		<ID>16</ID>
+		<AuthorFN>Джон</AuthorFN>
+		<AuthorLN>Грин</AuthorLN>
+		<Title>Бумажные города</Title>
+		<Date>2016</Date>
+		<Status>В наличии</Status>
+		<On_hands/>
+	</Book>
+	<Book>
+		<ID>17</ID>
+		<AuthorFN>Джон</AuthorFN>
+		<AuthorLN>Грин</AuthorLN>
+		<Title>Виноваты звезды</Title>
+		<Date>2015</Date>
+		<Status>В наличии</Status>
+		<On_hands/>
+	</Book>
+	<Book>
+		<ID>18</ID>
+		<AuthorFN>Джордж</AuthorFN>
+		<AuthorLN>Мартин</AuthorLN>
+		<Title>Игра престолов</Title>
+		<Date>1996</Date>
+		<Status/>
+		<On_hands>3</On_hands>
+	</Book>
+	<Book>
+		<ID>19</ID>
+		<AuthorFN>Джордж</AuthorFN>
+		<AuthorLN>Мартин</AuthorLN>
+		<Title>Битва королей</Title>
+		<Date>1998</Date>
+		<Status/>
+		<On_hands>3</On_hands>
+	</Book>
+	<Book>
+		<ID>20</ID>
+		<AuthorFN>Джордж</AuthorFN>
+		<AuthorLN>Мартин</AuthorLN>
+		<Title>Буря мечей</Title>
+		<Date>2005</Date>
+		<Status/>
+		<On_hands>3</On_hands>
+	</Book>
+	<Book>
+		<ID>21</ID>
+		<AuthorFN>Джордж</AuthorFN>
+		<AuthorLN>Мартин</AuthorLN>
+		<Title>Танец с драконами</Title>
+		<Date>2011</Date>
+		<Status/>
+		<On_hands>3</On_hands>
+	</Book>
+	<Book>
+		<ID>22</ID>
+		<AuthorFN>Сесилия</AuthorFN>
+		<AuthorLN>Ахерн</AuthorLN>
+		<Title>Посмотри на меня</Title>
+		<Date>2005</Date>
+		<Status/>
+		<On_hands>3</On_hands>
+	</Book>
+	
+	
+	
+<Book><ID>599</ID><AuthorFN>Александр</AuthorFN><AuthorLN>Пушкин</AuthorLN><Title>Евгений Онегин</Title><Date>2004</Date><Status>В наличии</Status><On_hands/></Book><Book><ID>734</ID><AuthorFN>Михаил </AuthorFN><AuthorLN>Булгаков</AuthorLN><Title>Мастер и Маргарита</Title><Date>2007</Date><Status>В наличии</Status><On_hands/></Book></Libraly>
